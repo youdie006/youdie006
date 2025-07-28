@@ -36,7 +36,7 @@ My primary focus is on **multimodal intelligence**, combining Large Language Mod
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=youdie006&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=youdie006&show_icons=true&theme=radical&cache_seconds=1800)
 
 ### 🌐 Let's Connect!
 - 📧 Email: xncb135@korea.ac.kr
